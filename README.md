@@ -4,7 +4,7 @@ The Casino Number Guessing Game is a fun and challenging game developed in C++ a
 
 ## Gameplay Video
 
-[![Watch the video](https://github.com/muneeb787/Casino-Number-Guessing-Game/assets/133331694/90960406-cc23-4194-8197-bac2df525180)
+![Watch the video](https://github.com/muneeb787/Casino-Number-Guessing-Game/assets/133331694/90960406-cc23-4194-8197-bac2df525180)
 
 ## Installation
 
