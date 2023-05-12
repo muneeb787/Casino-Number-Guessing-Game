@@ -1,0 +1,93 @@
+ALi		Balance is 100		
+  Bet Amount is: 50
+  Good Luck!! You won Rs.500
+-->NOW YOUR NEW BALANCE IS: 150
+
+Thanks for playing game. Your balance amount is $ 150
+
+Ali		Balance is 100		
+  Bet Amount is: 50
+  Good Luck!! You won Rs.500
+-->NOW YOUR NEW BALANCE IS: 200
+
+Thanks for playing game. Your balance amount is $ 150
+
+ali		Balance is 500		
+  Bet Amount is: 100
+  Good Luck!! You won Rs.1000
+-->NOW YOUR NEW BALANCE IS: 1500
+
+Thanks for playing game. Your balance amount is $ 1500
+
+ali		Balance is 500		
+  Bet Amount is: 100
+  Bad Luck this time !! You lost $ 100
+-->NOW YOUR NEW BALANCE IS: 400
+
+Thanks for playing game. Your balance amount is $ 400
+
+ali		Balance is 500		
+  Bet Amount is: 500
+  Bad Luck this time !! You lost $ 500
+-->NOW YOUR NEW BALANCE IS: 0
+
+Thanks for playing game. Your balance amount is $ 0
+
+ali		Balance is 1213		
+  Bet Amount is: 12
+  Bad Luck this time !! You lost $ 12
+-->NOW YOUR NEW BALANCE IS: 1201
+
+Thanks for playing game. Your balance amount is $ 1201
+
+Hamza		Balance is 1500		
+  Bet Amount is: 500
+  Good Luck!! You won Rs.5000
+-->NOW YOUR NEW BALANCE IS: 6500
+  Bet Amount is: 5
+  Bad Luck this time !! You lost $ 5
+-->NOW YOUR NEW BALANCE IS: 6495
+
+Thanks for playing game. Your balance amount is $ 6495
+
+suuny		Balance is 5		
+  Bet Amount is: 4
+  Bad Luck this time !! You lost $ 4
+-->NOW YOUR NEW BALANCE IS: 1
+
+Thanks for playing game. Your balance amount is $ 1
+
+Muneeb Ahmad		Balance is 500		
+  Bet Amount is: 200
+  Bad Luck this time !! You lost $ 200
+-->NOW YOUR NEW BALANCE IS: 300
+  Bet Amount is: 5600
+  Bet Amount is: 34
+  Bad Luck this time !! You lost $ 34
+-->NOW YOUR NEW BALANCE IS: 266
+  Bet Amount is: 32
+  Bad Luck this time !! You lost $ 32
+-->NOW YOUR NEW BALANCE IS: 234
+
+Thanks for playing game. Your balance amount is $ 234
+
+Muneeb Ahmad		Balance is 500		
+  Bet Amount is: 200
+  Bad Luck this time !! You lost $ 200
+-->NOW YOUR NEW BALANCE IS: 300
+  Bet Amount is: 23
+  Bad Luck this time !! You lost $ 23
+-->NOW YOUR NEW BALANCE IS: 277
+
+Thanks for playing game. Your balance amount is $ 277
+
+Muneeb Ahmad		Balance is 500		
+  Bet Amount is: 200
+  Bad Luck this time !! You lost $ 200
+-->NOW YOUR NEW BALANCE IS: 300
+  Bet Amount is: 200
+  Good Luck!! You won Rs.2000
+-->NOW YOUR NEW BALANCE IS: 2300
+
+Thanks for playing game. Your balance amount is $ 2300
+
